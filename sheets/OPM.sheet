@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<!--Dia-Version: 0.96.1-->
+<!--File: D:\Profiles\ctoh001\My Documents\\.dia\sheets\OPM.sheet-->
+<!--Date: Wed Feb 04 21:37:27 2009-->
+<!--For: ctoh001-->
+
+<name>OPM</name>
+<description>Object Process Methodology</description>
+  <contents>
+  <!--add shapes here-->
+    <object name="OPM - Processing">
+      <description>Process(ing)</description>
+    </object>
+    <object name="OPM - Object">
+      <description>Object</description>
+    </object>
+    <object name="OPM - state">
+      <description>state</description>
+    </object>
+    <object name="OPM - Aggregation">
+      <description>Aggregation</description>
+    </object>
+    <object name="OPM - Exhibition">
+      <description>Exhibition</description>
+    </object>
+    <object name="OPM - Generalization">
+      <description>Generalization</description>
+    </object>
+    <object name="OPM - Instantiation">
+      <description>Instantiation</description>
+    </object>
+
+  </contents>
+</sheet>

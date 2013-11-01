@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>OPM - Instantiation</name>
+  <icon>Instantiation.png</icon>
+  <connections>
+    <point x="10.6" y="7.1"/>
+    <point x="10.55" y="10.5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="10.6,7.1 12.8,10.45 8.4,10.45 "/>
+    <svg:polygon style="fill: #000000" points="9.6,8.75 11.65,8.7 10.55,10.5 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="9.6,8.75 11.65,8.7 10.55,10.5 "/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>OPM - Processing</name>
+  <icon>Processing.png</icon>
+  <connections>
+    <point x="-3" y="0"/>
+    <point x="0" y="1.25"/>
+    <point x="3" y="0"/>
+    <point x="0" y="-1.25"/>
+    <point x="2.6" y="0.625"/>
+    <point x="1.5" y="1.0825"/>
+    <point x="-2.6" y="0.625"/>
+    <point x="-1.5" y="1.0825"/>
+    <point x="2.6" y="-0.625"/>
+    <point x="1.5" y="-1.0825"/>
+    <point x="-2.6" y="-0.625"/>
+    <point x="-1.5" y="-1.0825"/>
+  </connections>
+
+  <aspectratio type="free"/>
+  <textbox x1="-2" y1="1" x2="2" y2="-1"/>
+
+  <svg:svg width="4.0" height="2.0">
+   <svg:ellipse  cx="0" cy="0" rx="3" ry="1.25"/>
+   </svg:svg>
+
+</shape>

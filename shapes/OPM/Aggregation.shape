@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>OPM - Aggregation</name>
+  <icon>Aggregation.png</icon>
+  <connections>
+    <point x="10.6" y="8.5"/>
+    <point x="10.575" y="9.7"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #000000" points="10.6,8.5 11.3,9.7 9.85,9.7 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="10.6,8.5 11.3,9.7 9.85,9.7 "/>
+  </svg:svg>
+</shape>

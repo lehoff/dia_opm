@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>OPM - Generalization</name>
+  <icon>Generalization.png</icon>
+  <connections>
+    <point x="10.6" y="7.1"/>
+    <point x="10.6" y="10.45"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="10.6,7.1 12.8,10.45 8.4,10.45 "/>
+  </svg:svg>
+</shape>
